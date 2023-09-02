@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">ImVast</h1>
+<h1 align="center">JustRieriee</h1>
 <a href="https://github.com/justrieriee"></a>
 
 <p align="center">
