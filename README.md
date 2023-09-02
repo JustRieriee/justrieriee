@@ -11,7 +11,7 @@
 <h3 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" src="[https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png)"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 </p>
